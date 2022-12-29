@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "axios": "^1.2.1",
+    "dotenv": "^16.0.3",
+    "openai": "^3.1.0",
+    "twitter-api-v2": "^1.13.0"
+  },
+  "name": "image_generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Sajid Banday",
+  "license": "ISC",
+  "description": "an api to generate images"
+}
